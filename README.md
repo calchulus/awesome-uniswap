@@ -31,7 +31,8 @@ Hasseeb
 [0x Tracker API docs](https://docs.0xtracker.com/api-reference/introduction)
 
 
-
+Ethereum dapps:
+https://medium.com/swapr/dxdao-announces-swapr-becoming-the-first-dao-to-launch-a-defi-protocol-on-ethereum-d45c291ae86a
 
 Layer 2s:
 Harmony-based Uniswap https://github.com/harmony-one/swoop-core
