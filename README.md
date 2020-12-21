@@ -33,6 +33,11 @@ Hasseeb
 
 
 
+Layer 2s:
+Harmony-based Uniswap https://github.com/harmony-one/swoop-core
+pancake
+avalanche
+
 
 Glossary:
 TWAP
