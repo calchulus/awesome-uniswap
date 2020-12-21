@@ -10,6 +10,8 @@ Uniswap
 
 [Uniswap via Infura](https://blog.infura.io/frontend-dapp-development-2/)
 
+[Uniswap via The Graph & GraphQL](https://messari.io/article/retrieving-uniswap-trades-using-the-graph)
+
 
 Limit  Orders
 
