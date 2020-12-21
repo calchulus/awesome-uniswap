@@ -16,6 +16,7 @@ Uniswap
 Limit  Orders
 
 [Dexible](https://buidlhub.gitbook.io/dexible/)
+batched orders but have some fee mechanism
 
 [Build Finance Metric Exchange](https://docs.build.finance/metric-exchange/)
 
@@ -24,6 +25,10 @@ Aggregators
 
 Medium articles
 [Pintail: the First look at Impermanent Loss](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+
+
+[Paradigm Research, Volatilty Harvesting, and better than HODL strategies]
+(https://research.paradigm.xyz/uniswaps-alchemy)
 
 Hasseeb
 
