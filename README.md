@@ -27,8 +27,9 @@ Medium articles
 [Pintail: the First look at Impermanent Loss](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 
 
-[Paradigm Research, Volatilty Harvesting, and better than HODL strategies]
-(https://research.paradigm.xyz/uniswaps-alchemy)
+[Paradigm Research, Volatilty Harvesting, and better than HODL strategies](https://research.paradigm.xyz/uniswaps-alchemy)
+
+[Ryan Tian Finnexus CMC Alexandria Article on Liquidity Pools](https://coinmarketcap.com/alexandria/article/decentralized-liquidity-pools-a-deep-dive-with-finnexus-options)
 
 Hasseeb
 
