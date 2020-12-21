@@ -42,6 +42,9 @@ Harmony-based Uniswap https://github.com/harmony-one/swoop-core
 pancake
 avalanche
 
+Data:
+[Top Liquidity Pools vs. Volume on Uniswap](https://tokenscan.xyz/)
+
 
 Glossary:
 TWAP
