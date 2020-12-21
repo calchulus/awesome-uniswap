@@ -45,6 +45,8 @@ avalanche
 Data:
 [Top Liquidity Pools vs. Volume on Uniswap](https://tokenscan.xyz/)
 
+[TokenTerminal: Protocol Revenues](https://www.tokenterminal.com/)
+
 
 Glossary:
 TWAP
